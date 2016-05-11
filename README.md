@@ -13,7 +13,7 @@ Hardest Game Ever“. Целта на играта е да го однесете
 од тоа на кое ниво од играта се наоѓаме.
 
 <p align = "middle">
- <img src = "https://github.com/angel-4o/EasiestGameEver/blob/master/Screenshots/Home%20Page.PNG?raw=true" alt = "Playing Mode" />
+ <img src = "https://github.com/angel-4o/EasiestGameEver/blob/master/Screenshots/Home%20Page.PNG?raw=true"/>
 </p>
  
 ####2.	Упатство за користење
@@ -68,7 +68,10 @@ UpDownBall;
 имплементирано во класата RandomBall. 
 Во сите овие класи е направено преоптоварување на Move() методот со 
 што се добиени посакуваните резултати. 
-  
+
+<p align = "middle">
+ <img src = "https://github.com/angel-4o/EasiestGameEver/blob/master/Screenshots/Level%202.PNG"/>
+</p>
  
 ####4.	 Креирање на нивоа
 -	Секое од нивоата е креирано во класа која наследува од 
