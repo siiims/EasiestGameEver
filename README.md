@@ -1,6 +1,6 @@
 # EasiestGameEver
 
-Windows Forms Project by: Angel Miladinov, Emilija Nacova and Simona Zlatanova
+##Windows Forms Project by: Angel Miladinov, Emilija Nacova and Simona Zlatanova
 1.	Опис на апликацијата
 Апликацијата што ја развиваме е наша имплеметација на играта „The 
 Hardest Game Ever“. Целта на играта е да го однесете црвеното квадратче 
