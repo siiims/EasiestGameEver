@@ -10,6 +10,10 @@ Hardest Game Ever“. Целта на играта е да го однесете
 другото зелено квадратче, или ако се повеќе од едно, до последното од нив. 
 Пречките се сини кругчиња кои се движат во различни правци во зависност 
 од тоа на кое ниво од играта се наоѓаме.
+
+<p align = "middle">
+ <img src = "https://github.com/angel-4o/EasiestGameEver/blob/master/Screenshots/Home%20Page.PNG?raw=true" alt = "Playing Mode" />
+</p>
  
 2.	Упатство за користење
 2.1	Почеток на играта
