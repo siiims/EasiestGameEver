@@ -1,0 +1,61 @@
+C:\Users\Tipsy\Desktop\Visual Programming\code\EasiestGame\EasiestGame\bin\Debug\EasiestGame.exe.config
+C:\Users\Tipsy\Desktop\Visual Programming\code\EasiestGame\EasiestGame\bin\Debug\EasiestGame.exe
+C:\Users\Tipsy\Desktop\Visual Programming\code\EasiestGame\EasiestGame\bin\Debug\EasiestGame.pdb
+C:\Users\Tipsy\Desktop\Visual Programming\code\EasiestGame\EasiestGame\obj\Debug\EasiestGame.Properties.Resources.resources
+C:\Users\Tipsy\Desktop\Visual Programming\code\EasiestGame\EasiestGame\obj\Debug\EasiestGame.csproj.GenerateResource.Cache
+C:\Users\Tipsy\Desktop\Visual Programming\code\EasiestGame\EasiestGame\obj\Debug\EasiestGame.exe
+C:\Users\Tipsy\Desktop\Visual Programming\code\EasiestGame\EasiestGame\obj\Debug\EasiestGame.pdb
+C:\Users\Tipsy\Desktop\Visual Programming\code\EasiestGame\EasiestGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tipsy\Desktop\Visual Programming\code\EasiestGame\EasiestGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tipsy\Desktop\Visual Programming\code\EasiestGame\EasiestGame\obj\Debug\EasiestGame.csproj.ResolveComReference.cache
+C:\Users\Tipsy\Desktop\Visual Programming\code\EasiestGame\EasiestGame\obj\Debug\EasiestGame.Form1.resources
+C:\Users\Tipsy\Desktop\Visual Programming\code\EasiestGame\EasiestGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tipsy\Desktop\Visual Programming\code\EasiestGame\EasiestGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sims\Downloads\EasiestGame-Beta\EasiestGame\EasiestGame\bin\Debug\EasiestGame.exe.config
+C:\Users\Sims\Downloads\EasiestGame-Beta\EasiestGame\EasiestGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sims\Downloads\EasiestGame-Beta\EasiestGame\EasiestGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sims\Downloads\EasiestGame-Beta\EasiestGame\EasiestGame\obj\Debug\EasiestGame.csproj.ResolveComReference.cache
+C:\Users\Sims\Downloads\EasiestGame-Beta\EasiestGame\EasiestGame\obj\Debug\EasiestGame.exe
+C:\Users\Sims\Downloads\EasiestGame-Beta\EasiestGame\EasiestGame\obj\Debug\EasiestGame.pdb
+C:\Users\Sims\Downloads\EasiestGame-Beta\EasiestGame\EasiestGame\bin\Debug\EasiestGame.exe
+C:\Users\Sims\Downloads\EasiestGame-Beta\EasiestGame\EasiestGame\bin\Debug\EasiestGame.pdb
+C:\Users\Sims\Downloads\EasiestGame-Beta\EasiestGame\EasiestGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sims\Downloads\EasiestGame-Beta\EasiestGame\EasiestGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sims\Downloads\EasiestGame-Beta\EasiestGame\EasiestGame\obj\Debug\EasiestGame.csprojResolveAssemblyReference.cache
+C:\Users\Sims\Downloads\EasiestGame-Beta\EasiestGame\EasiestGame\obj\Debug\EasiestGame.Form1.resources
+C:\Users\Sims\Downloads\EasiestGame-Beta\EasiestGame\EasiestGame\obj\Debug\EasiestGame.Properties.Resources.resources
+C:\Users\Sims\Downloads\EasiestGame-Beta\EasiestGame\EasiestGame\obj\Debug\EasiestGame.csproj.GenerateResource.Cache
+C:\Users\Sims\Desktop\alles da\EasiestGame\EasiestGame\bin\Debug\EasiestGame.exe.config
+C:\Users\Sims\Desktop\alles da\EasiestGame\EasiestGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sims\Desktop\alles da\EasiestGame\EasiestGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sims\Desktop\alles da\EasiestGame\EasiestGame\obj\Debug\EasiestGame.csproj.ResolveComReference.cache
+C:\Users\Sims\Desktop\alles da\EasiestGame\EasiestGame\obj\Debug\EasiestGame.exe
+C:\Users\Sims\Desktop\alles da\EasiestGame\EasiestGame\obj\Debug\EasiestGame.pdb
+C:\Users\Sims\Desktop\alles da\EasiestGame\EasiestGame\bin\Debug\EasiestGame.exe
+C:\Users\Sims\Desktop\alles da\EasiestGame\EasiestGame\bin\Debug\EasiestGame.pdb
+C:\Users\Sims\Desktop\alles da\EasiestGame\EasiestGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sims\Desktop\alles da\EasiestGame\EasiestGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sims\Desktop\alles da\EasiestGame\EasiestGame\obj\Debug\EasiestGame.csprojResolveAssemblyReference.cache
+C:\Users\Sims\Desktop\alles da\EasiestGame\EasiestGame\obj\Debug\EasiestGame.Form1.resources
+C:\Users\Sims\Desktop\alles da\EasiestGame\EasiestGame\obj\Debug\EasiestGame.Properties.Resources.resources
+C:\Users\Sims\Desktop\alles da\EasiestGame\EasiestGame\obj\Debug\EasiestGame.csproj.GenerateResource.Cache
+C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\bin\Debug\EasiestGame.exe.config
+C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\obj\Debug\EasiestGame.csproj.ResolveComReference.cache
+C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\obj\Debug\EasiestGame.exe
+C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\obj\Debug\EasiestGame.pdb
+C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\bin\Debug\EasiestGame.exe
+C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\bin\Debug\EasiestGame.pdb
+C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\obj\Debug\EasiestGame.csprojResolveAssemblyReference.cache
+C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\obj\Debug\EasiestGame.Form1.resources
+C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\obj\Debug\EasiestGame.Properties.Resources.resources
+C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\obj\Debug\EasiestGame.csproj.GenerateResource.Cache
+C:\Users\Tipsy\Downloads\alles-da\EasiestGame\EasiestGame\bin\Debug\EasiestGame.exe.config
+C:\Users\Tipsy\Downloads\alles-da\EasiestGame\EasiestGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tipsy\Downloads\alles-da\EasiestGame\EasiestGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tipsy\Downloads\alles-da\EasiestGame\EasiestGame\obj\Debug\EasiestGame.csproj.ResolveComReference.cache
+C:\Users\Tipsy\Downloads\alles-da\EasiestGame\EasiestGame\obj\Debug\EasiestGame.exe
+C:\Users\Tipsy\Downloads\alles-da\EasiestGame\EasiestGame\obj\Debug\EasiestGame.pdb
